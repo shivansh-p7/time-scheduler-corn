@@ -1,0 +1,23 @@
+{
+  "name": "time-scheduler-corn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh-p7/time-scheduler-corn.git"
+  },
+  "author": "shivahs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivansh-p7/time-scheduler-corn/issues"
+  },
+  "homepage": "https://github.com/shivansh-p7/time-scheduler-corn#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2"
+  }
+}
